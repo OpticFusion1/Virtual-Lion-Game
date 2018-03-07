@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=VirtualLionM
+comment1.params=n
+comment1.target=VirtualLionM(java.lang.String)
+comment10.params=
+comment10.target=void\ play()
+comment11.params=
+comment11.target=void\ showStats()
+comment12.params=
+comment12.target=void\ resetLion()
+comment2.params=prob
+comment2.target=boolean\ chance(double)
+comment3.params=
+comment3.target=void\ updateStats()
+comment4.params=
+comment4.target=void\ updateMood()
+comment5.params=cubPic\ lionPic
+comment5.target=void\ updateImage(java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=void\ hunt()
+comment7.params=
+comment7.target=void\ fightForMate()
+comment8.params=
+comment8.target=void\ drink()
+comment9.params=
+comment9.target=void\ sleep()
+numComments=13
